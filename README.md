@@ -1,16 +1,11 @@
 # flix_mate
 
-A new Flutter project.
+A Flutter-based movie browsing app that allows users to search for movies and view their details. This app uses the TVMaze API to fetch movie data, including images, titles, summaries, and more. The design is optimized for mobile, tablet, and desktop, providing a smooth and responsive experience.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+To run this project locally, follow the steps below:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1. Clone the repository
+```bash
+gh repo clone MMWARRIOR03/flix_mate
